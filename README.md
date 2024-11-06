@@ -1,0 +1,1 @@
+# mesure_image_object
